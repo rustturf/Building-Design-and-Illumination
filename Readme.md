@@ -1,1 +1,0 @@
-This report contains the detailed documentation and illumination design for a building using AutoCad. The design will be shown upon request for no violation of privac
